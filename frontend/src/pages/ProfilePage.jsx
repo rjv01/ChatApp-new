@@ -27,7 +27,11 @@ const ProfilePage = () => {
         <div className="bg-base-300 rounded-xl p-6 space-y-8">
           <div className="text-center">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             <h1 className="text-2xl font-semibold ">Profile</h1>
+=======
+            <h1 className="text-2xl font-semibold ">Profile Page!</h1>
+>>>>>>> Stashed changes
 =======
             <h1 className="text-2xl font-semibold ">Profile Page!</h1>
 >>>>>>> Stashed changes
